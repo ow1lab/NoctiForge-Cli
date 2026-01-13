@@ -1,0 +1,5 @@
+[toolchain]
+channel = "stable"
+components = ["cargo", "rust-analyzer", "rust-src", "clippy"]
+profile = "default"
+targets = [ "x86_64-unknown-linux-gnu" ]

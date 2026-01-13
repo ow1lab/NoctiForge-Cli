@@ -1,0 +1,12 @@
+*.tar.*
+.cargo
+.env
+/dist
+target
+vendor
+.direnv
+
+
+# Added by cargo
+
+/target
